@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Account Type",
+        "description": "Please select your account type"
+    },
+    {
+        "name": "Contact Details",
+        "description": "Please provide your contact details"
+    },
+    {
+        "name": "Business details",
+        "description": "A few details about your company"
+    },
+    {
+        "name": "Business owners",
+        "description": "A few details about the owner"
+    }
+]

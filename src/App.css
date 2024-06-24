@@ -1,0 +1,14 @@
+* {
+  max-width: 1440px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f9fafb;
+}
+
+@media only screen and (max-width: 1350px) {
+  * {
+    max-width: 1350px;
+  }
+}
